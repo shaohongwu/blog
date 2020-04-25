@@ -4,7 +4,7 @@ title = "懒人笔记"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 theme = "npq-hugo"
 pygmentsUseClasses=true
-
+disqusShortname = "aaron-5.disqus.com"
 [params]
   author = "Aaron"
   description = "blog"

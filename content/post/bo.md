@@ -1,7 +1,7 @@
 ---
 title: "搭建自己的博客"
 date: 2020-04-26T12:04:30+08:00
-draft: true
+draft: false
 ---
 
 

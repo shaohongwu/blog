@@ -80,6 +80,7 @@ draft: false
 - 部署脚本
 
   ```
+  npx ganache-cli
   touch deploy.js
   ```
 

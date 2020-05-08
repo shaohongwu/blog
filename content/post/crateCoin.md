@@ -1,6 +1,7 @@
 ---
 title: "发行token"
 date: 2020-05-06T12:04:30+08:00
+tags: [ "区块链" ,"智能合约"]
 draft: false
 ---
 

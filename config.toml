@@ -49,3 +49,5 @@ disqusShortname = "aaron-5.disqus.com"
     pre = "<i class=\"far fa-envelope\"></i>"
     url = "/contact"
     weight = -1 
+[taxonomies]
+  tag = "tags"
